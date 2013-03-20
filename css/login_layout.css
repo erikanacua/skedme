@@ -1,0 +1,140 @@
+body {
+	width: 100%;	
+	background: url(../img/simple3.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: 0px;
+}
+
+br {
+	margin: 5px;
+}
+
+.header {
+	width: 100%;
+	height: 40px;
+	margin-top: 0px;
+	z-index: 1;
+}
+
+#title {
+	height: 15px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-left: 30px;
+}
+
+.bg {
+	width: 100%;
+	background-color: #cecbcb; 
+	height: 100%;
+}
+
+.footer {
+	width: 100%;
+	height: 30px;
+	margin-top: 130px;
+	z-index: 1;
+}
+
+
+.welcome_note {
+	float: left;
+}
+
+.featured_events {
+	float: right;
+	width: 50%;
+	height: 100%;
+}
+
+.form-horizontal {
+	width: 315px; 
+	padding-top: 10px;
+}
+
+#title {
+	height: 37px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-left: 30px;
+}
+
+#logo {
+	height: 33px;
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#hi {
+	margin-top: 150px;
+	margin-left: 40px;
+	height: 30px;
+	width: 350px;
+	font-family: Calisto MT;
+	font-weight: bold;
+	font-size: 100px;
+	text-shadow: 0px 1px 0px rgb(0, 0, 0);
+}
+
+#welcome_text {
+	font-size: 22pt;
+	width: 1000px;
+	color: #b00201;
+	font-weight: bold;
+	font-family: Calisto MT; 
+	margin-top: 20px;
+	margin-left: 60px;
+	text-align: left;
+	text-shadow: 0px 1px 0px rgb(0, 0, 0);
+}
+
+#plan {
+	font-size: 27pt;
+	width: 1000px;
+	color: white;
+	font-weight: bold;
+	font-family: Calisto MT; 
+	margin-left: 60px;
+	text-align: left;
+	text-transform: uppercase;
+	text-shadow: 0px 1px 0px rgb(0, 0, 0);
+}
+
+#copyright {
+	border: 0;
+	font-size: 90%;
+	font-family: Calibri;
+	margin-left: 20px;
+	padding-top: 5px;
+	color: #b00201;
+	text-align: center;
+}
+
+#featured {
+	margin-top: 50px;
+	width: 350px;
+	height: 40px;
+}
+
+#events {
+	background-color: #000000;
+  height: 350px;
+  margin-left: 10px;
+  margin-top: 20px;
+  width: 500px; 
+}
+
+.item img {
+	width: 500px;
+	height: 350px;
+}
+
+.carousel a {
+	opacity: 0.2;
+}
+
+.carousel a:hover {
+	opacity: 1;
+}
